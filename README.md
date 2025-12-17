@@ -21,6 +21,12 @@ Incluye: exploración, limpieza, carga a Postgres (staging) y construcción de u
 - `venv/`  
   Entorno virtual local (NO se sube a GitHub).
 
+- `analisis/`
+  Carpeta con un archivo .pdf sobre el informa del proyecto creado
+
+- `dashboard/`
+  Carpeta que contiene archivos .pdf con las capturas de los graficos realizados en metabase (KPIs, Ranking, Tendencias, Segmentación)
+
 - `.env`  
   Variables de entorno para la conexión a Postgres (NO se sube a GitHub).
 
